@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/jahnv/Dropbox/PC/Desktop/EECS-348",
-      "program": "c:/Users/jahnv/Dropbox/PC/Desktop/EECS-348/build/Debug/outDebug",
+      "cwd": "c:/Users/jahnv/Dropbox/PC/Desktop/EECS-348/lab6",
+      "program": "c:/Users/jahnv/Dropbox/PC/Desktop/EECS-348/lab6/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
